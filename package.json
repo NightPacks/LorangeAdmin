@@ -1,0 +1,22 @@
+{
+  "name": "lorange_admin",
+  "version": "1.0.0",
+  "description": "Lorange empire discord bot..",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "bot",
+    "admin",
+    "fun",
+    "muziek"
+  ],
+  "author": "Night_Packs",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nodemon": "^2.0.12"
+  }
+}
